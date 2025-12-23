@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "救世主",
+  "base_artist": "月詠み",
+  "createdAt": "2025-12-23T13:34:15.864162Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "―救世主 メシア―",
+      "artist": "Janne Da Arc",
+      "has_synced": false,
+      "path": "select/01_―救世主_メシア―_Janne_Da_Arc.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "-救世主 メシア-",
+      "artist": "Janne Da Arc",
+      "has_synced": false,
+      "path": "select/02_-救世主_メシア-_Janne_Da_Arc.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "AAAMYYY - 救世主  [Audio Visual]",
+      "artist": "AAAMYYY",
+      "has_synced": true,
+      "path": "select/03_AAAMYYY_-_救世主_[Audio_Visual]_AAAMYYY.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "救世主",
+      "artist": "AAAMYYY",
+      "has_synced": true,
+      "path": "select/04_救世主_AAAMYYY.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "救世主",
+      "artist": "月詠み",
+      "has_synced": false,
+      "path": "select/pl_01_救世主_月詠み.txt"
+    }
+  ]
+}
